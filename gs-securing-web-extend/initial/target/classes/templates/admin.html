@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:th="https://www.thymeleaf.org"
+      xmlns:sec="https://www.thymeleaf.org/thymeleaf-extras-springsecurity6">
+    <head>
+        <title>Admin Page</title>
+    </head>
+    <body>
+        <h1>Admin Dashboard</h1>
+        <h2 th:inline="text">Welcome <span th:remove="tag" sec:authentication="name">thymeleaf</span>!</h2>
+        <div sec:authorize="hasRole('ADMIN')">
+            <p>This content is only shown to administrators.</p>
+        </div>
+        <form th:action="@{/logout}" method="post">
+            <input type="submit" value="Sign Out"/>
+        </form>
+        <p><a th:href="@{/}">Back to Home</a></p>
+    </body>
+</html>

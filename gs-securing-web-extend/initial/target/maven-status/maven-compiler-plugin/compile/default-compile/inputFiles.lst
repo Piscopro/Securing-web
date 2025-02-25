@@ -1,0 +1,10 @@
+C:\Users\tycon\Desktop\gs-securing-web\initial\src\main\java\com\example\securingweb\config\DataInitializer.java
+C:\Users\tycon\Desktop\gs-securing-web\initial\src\main\java\com\example\securingweb\controller\UserController.java
+C:\Users\tycon\Desktop\gs-securing-web\initial\src\main\java\com\example\securingweb\model\Role.java
+C:\Users\tycon\Desktop\gs-securing-web\initial\src\main\java\com\example\securingweb\model\User.java
+C:\Users\tycon\Desktop\gs-securing-web\initial\src\main\java\com\example\securingweb\MvcConfig.java
+C:\Users\tycon\Desktop\gs-securing-web\initial\src\main\java\com\example\securingweb\repository\RoleRepository.java
+C:\Users\tycon\Desktop\gs-securing-web\initial\src\main\java\com\example\securingweb\repository\UserRepository.java
+C:\Users\tycon\Desktop\gs-securing-web\initial\src\main\java\com\example\securingweb\SecuringWebApplication.java
+C:\Users\tycon\Desktop\gs-securing-web\initial\src\main\java\com\example\securingweb\service\CustomUserDetailsService.java
+C:\Users\tycon\Desktop\gs-securing-web\initial\src\main\java\com\example\securingweb\WebSecurityConfig.java
