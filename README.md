@@ -37,18 +37,18 @@ This project demonstrates how to secure a web application using Spring Boot and 
 
 ## Extend Version
 ### Store data in DataBase and BCryptPasswordEncoder
-![Database](initial\src\main\resources\pictures\erd.png)
-![Database](initial\src\main\resources\pictures\user_table.png)
-![Database](initial\src\main\resources\pictures\user_roles_table.png)
-![Database](initial\src\main\resources\pictures\role_table.png)
+![Database](initial/src/main/resources/pictures/erd.png)
+![Database](initial/src/main/resources/pictures/user_table.png)
+![Database](initial/src/main/resources/pictures/user_roles_table.png)
+![Database](initial/src/main/resources/pictures/role_table.png)
 
 ### User
-![Database](initial\src\main\resources\pictures\user_1.png)
-![Database](initial\src\main\resources\pictures\user_2.png)
+![Database](initial/src/main/resources/pictures/user_1.png)
+![Database](initial/src/main/resources/pictures/user_2.png)
 ### Admin 
-![Database](initial\src\main\resources\pictures\admin_1.png)
-![Database](initial\src\main\resources\pictures\admin_2.png)
+![Database](initial/src/main/resources/pictures/admin_1.png)
+![Database](initial/src/main/resources/pictures/admin_2.png)
 ### Register new user
-![Database](initial\src\main\resources\pictures\register.png)
-![Database](initial\src\main\resources\pictures\user_3.png)
-![Database](initial\src\main\resources\pictures\user_4.png)
+![Database](initial/src/main/resources/pictures/register.png)
+![Database](initial/src/main/resources/pictures/user_3.png)
+![Database](initial/src/main/resources/pictures/user_4.png)
